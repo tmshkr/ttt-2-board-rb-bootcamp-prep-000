@@ -2,7 +2,7 @@
 board = []
 
 9.times do
-  board << ' '
+  board << '1'
 end
 
 puts board
